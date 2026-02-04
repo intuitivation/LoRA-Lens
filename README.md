@@ -384,7 +384,7 @@ Download these LoRAs and optimize them yourself to verify our results:
 </tr>
 <tr>
 <td>Create .loradb Collections</td>
-<td align="center">⚠️ Max 10</td>
+<td align="center">⚠️ Max 5</td>
 <td align="center">⚠️ Max 50</td>
 <td align="center">✅ Unlimited</td>
 </tr>
@@ -472,7 +472,7 @@ Download these LoRAs and optimize them yourself to verify our results:
 - ✅ Learning AI image generation
 - ✅ Portfolio work (non-commercial)
 - ✅ Research and experimentation
-- ✅ Small LoRA collections (up to 10 in .loradb)
+- ✅ Small LoRA collections (up to 5 in .loradb)
 
 **Includes:**
 - Full rank optimization (30-90% compression)
@@ -585,7 +585,7 @@ User extracts whichever LoRAs they need
 
 | Version | Create .loradb | Extract from .loradb | Sell .loradb |
 |---------|----------------|---------------------|--------------|
-| **Free** | ✅ Up to 10 LoRAs | ✅ Unlimited | ❌ No |
+| **Free** | ✅ Up to 5 LoRAs | ✅ Unlimited | ❌ No |
 | **Pro** | ✅ Up to 50 LoRAs | ✅ Unlimited | ❌ No |
 | **Studio** | ✅ **Unlimited** | ✅ Unlimited | ✅ **Yes** |
 
@@ -998,14 +998,14 @@ Studio license allows:
 
 ## 💚 Support Development
 
-LoRA Lens is built and maintained by Jon Wright. Your support helps keep development active!
+LoRA Lens is built and maintained by Jon Wright. I have many amazing projects I definitely need help with, coders and financing, and I would love to do this full-time if the world permitted. Being a single father with the most amazing daughter who's on the spectrum makes this a challenge. If you want to join me, I need you. If this program does anything for you, just wait till you hear what I have planned: the end of the AI monopoly.  Your support helps keep development active! 
 
 ### Purchase a License
 
 - 💼 [**Pro License - $299**](https://intuitivation.gumroad.com/l/LoRALens-Pro) - Commercial use + Pro features
 - 🏢 [**Studio License - $599**](https://intuitivation.gumroad.com/l/LoRALens-Studio) - Sell .loradb files + unlimited collections
 
-### Sponsor Development
+### Sponsor Development 
 
 - ⭐ **Star this repo** - Helps others discover LoRA Lens
 - 💚 **GitHub Sponsors** - Monthly support *(coming soon)*
@@ -1114,7 +1114,7 @@ LoRA Lens uses open-source libraries. See [THIRD_PARTY_LICENSES.md](THIRD_PARTY_
 ---
 
 **LoRA Lens v1.6** - Setting the Industry Standard  
-Made with ❤️ for the AI art community
+Made with ❤️ for the AI art community and Zoey, the brightest star in the universe!
 
 **[⭐ Star this repo](https://github.com/intuitivation/lora-lens)** if LoRA Lens helps you!
 
