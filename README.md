@@ -18,8 +18,8 @@
 
 <p align="center">
   <a href="#-quick-start">🚀 Quick Start</a> •
-  <a href="https://intuitivation.gumroad.com/l/LoRALens-Pro">💼 Pro $299</a> •
-  <a href="https://intuitivation.gumroad.com/l/LoRALens-Studio">🏢 Studio $599</a> •
+  <a href="https://intuitivation.gumroad.com/l/LoRALens-Pro">💼 Pro $49</a> •
+  <a href="https://intuitivation.gumroad.com/l/LoRALens-Studio">🏢 Studio $149</a> •
   <a href="QUICKSTART.md">📖 Full Docs</a>
 </p>
 
@@ -180,7 +180,7 @@ See **[QUICKSTART.md](QUICKSTART.md)** for a full walkthrough with screenshots.
 
 ## Free vs Pro vs Studio
 
-|  | 🆓 Free | 💼 Pro · $299 | 🏢 Studio · $599 |
+|  | 🆓 Free | 💼 Pro · $49 | 🏢 Studio · $149 |
 |--|---------|---------------|-------------------|
 | SVD rank optimization | ✅ | ✅ | ✅ |
 | All formats (SD 1.5 / SDXL / FLUX) | ✅ | ✅ | ✅ |
@@ -244,5 +244,5 @@ LoRA Lens is built and maintained by **[Jon Wright](https://github.com/intuitiva
 ---
 
 <p align="center">
-  <strong>LoRA Lens v1.6</strong> · Made with ❤️ for the AI art community and Zoey ✨
+  <strong>LoRA Lens v1.6</strong> · Made with ❤️ for the AI community and Zoey ✨
 </p>
