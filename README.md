@@ -200,7 +200,7 @@ See **[QUICKSTART.md](QUICKSTART.md)** for a full walkthrough with screenshots.
 
 <p>
   <a href="https://github.com/intuitivation/LoRA-Lens/releases"><img src="https://img.shields.io/badge/Download-FREE-brightgreen?style=for-the-badge" alt="Download Free"/></a>&nbsp;
-  <a href="https://intuitivation.gumroad.com/l/LoRALens-Pro"><img src="https://img.shields.io/badge/Buy_Pro-$499-blue?style=for-the-badge" alt="Buy Pro"/></a>&nbsp;
+  <a href="https://intuitivation.gumroad.com/l/LoRALens-Pro"><img src="https://img.shields.io/badge/Buy_Pro-$49-blue?style=for-the-badge" alt="Buy Pro"/></a>&nbsp;
   <a href="https://intuitivation.gumroad.com/l/LoRALens-Studio"><img src="https://img.shields.io/badge/Buy_Studio-$149-purple?style=for-the-badge" alt="Buy Studio"/></a>
 </p>
 
