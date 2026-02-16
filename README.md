@@ -238,12 +238,12 @@ Contributions welcome — bug fixes, documentation, feature suggestions. Open an
 LoRA Lens is built and maintained by **[Jon Wright](https://github.com/intuitivation)**. If this tool helps your workflow:
 
 ⭐ **[Star this repo](https://github.com/intuitivation/LoRA-Lens)** — helps others find it
-☕ **[Buy me a coffee](https://ko-fi.com/intuitivations)** — support development
+☕ **[Buy me a coffee](https://ko-fi.com/intuitivation)** — support development
 💼 **[Buy a license](https://intuitivation.gumroad.com/l/LoRALens-Pro)** — funds continued development
 📣 **Share your results** — post compression wins on Reddit, CivitAI, X
 
 ---
 
 <p align="center">
-  <strong>LoRA Lens v1.6</strong> · Made with ❤️ for the AI community and Zoey ✨
+  <strong>LoRA Lens v1.6</strong> · Made with ❤️ for the AI community, Zoey, and Robl ✨ ·
 </p>
